@@ -12,62 +12,174 @@
 	<!-- The list of taxa to be analysed (can also include dates/ages).          -->
 	<!-- ntax=56                                                                 -->
 	<taxa id="taxa">
-		<taxon id="2013-01-08"/>
-		<taxon id="2012-11-14"/>
-		<taxon id="2013-04-16"/>
-		<taxon id="2014-07-10"/>
-		<taxon id="2013-07-12"/>
-		<taxon id="2015-01-04"/>
-		<taxon id="2016-01-20"/>
-		<taxon id="2014-02-04"/>
-		<taxon id="2014-10-20"/>
-		<taxon id="2015-09-14"/>
-		<taxon id="2015-04-01"/>
-		<taxon id="2017-01-07"/>
-		<taxon id="2016-06-23"/>
-		<taxon id="2017-05-13"/>
-		<taxon id="2016-11-12"/>
-		<taxon id="2017-10-31"/>
-		<taxon id="2020-02-12"/>
-		<taxon id="2018-10-26"/>
-		<taxon id="2019-10-19"/>
-		<taxon id="2012-01-14"/>
-		<taxon id="2012-05-03"/>
-		<taxon id="2010-12-19"/>
-		<taxon id="2010-11-25"/>
-		<taxon id="2011-10-02"/>
-		<taxon id="2010-09-01"/>
-		<taxon id="2011-04-18"/>
-		<taxon id="2011-05-08"/>
-		<taxon id="2018-01-03"/>
-		<taxon id="2019-01-08"/>
-		<taxon id="2019-05-04"/>
-		<taxon id="2018-05-12"/>
-		<taxon id="2022-01-01"/>
-		<taxon id="2021-11-09"/>
-		<taxon id="2022-02-13"/>
-		<taxon id="2022-02-14"/>
-		<taxon id="2022-03-02"/>
-		<taxon id="2022-03-13"/>
-		<taxon id="2021-12-02"/>
-		<taxon id="2022-05-03"/>
-		<taxon id="2022-01-27"/>
-		<taxon id="2022-04-24"/>
-		<taxon id="2022-04-05"/>
-		<taxon id="2022-05-23"/>
-		<taxon id="2021-06-17"/>
-		<taxon id="2022-10-12"/>
-		<taxon id="2023-02-08"/>
-		<taxon id="2023-03-02"/>
-		<taxon id="2022-09-30"/>
-		<taxon id="2022-09-11"/>
-		<taxon id="2023-01-01"/>
-		<taxon id="2022-12-13"/>
-		<taxon id="2022-11-08"/>
-		<taxon id="2023-01-12"/>
-		<taxon id="2023-02-22"/>
-		<taxon id="2022-12-14"/>
-		<taxon id="2022-11-09"/>
+		<taxon id="2013-01-08">
+			<date value="2013.0191780821917" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2012-11-14">
+			<date value="2012.8688524590164" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2013-04-16">
+			<date value="2013.2876712328766" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2014-07-10">
+			<date value="2014.5205479452054" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2013-07-12">
+			<date value="2013.5260273972603" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2015-01-04">
+			<date value="2015.0082191780823" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2016-01-20">
+			<date value="2016.051912568306" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2014-02-04">
+			<date value="2014.0931506849315" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2014-10-20">
+			<date value="2014.8" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2015-09-14">
+			<date value="2015.7013698630137" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2015-04-01">
+			<date value="2015.2465753424658" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2017-01-07">
+			<date value="2017.0164383561644" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2016-06-23">
+			<date value="2016.4754098360656" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2017-05-13">
+			<date value="2017.3616438356164" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2016-11-12">
+			<date value="2016.863387978142" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2017-10-31">
+			<date value="2017.8301369863013" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2020-02-12">
+			<date value="2020.1147540983607" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2018-10-26">
+			<date value="2018.8164383561643" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2019-10-19">
+			<date value="2019.7972602739726" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2012-01-14">
+			<date value="2012.035519125683" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2012-05-03">
+			<date value="2012.3360655737704" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2010-12-19">
+			<date value="2010.964383561644" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2010-11-25">
+			<date value="2010.8986301369864" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2011-10-02">
+			<date value="2011.7506849315068" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2010-09-01">
+			<date value="2010.6657534246576" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2011-04-18">
+			<date value="2011.2931506849316" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2011-05-08">
+			<date value="2011.3479452054794" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2018-01-03">
+			<date value="2018.0054794520547" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2019-01-08">
+			<date value="2019.0191780821917" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2019-05-04">
+			<date value="2019.33698630137" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2018-05-12">
+			<date value="2018.358904109589" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-01-01">
+			<date value="2022.0" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2021-11-09">
+			<date value="2021.854794520548" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-02-13">
+			<date value="2022.1178082191782" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-02-14">
+			<date value="2022.1205479452055" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-03-02">
+			<date value="2022.164383561644" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-03-13">
+			<date value="2022.194520547945" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2021-12-02">
+			<date value="2021.9178082191781" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-05-03">
+			<date value="2022.3342465753424" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-01-27">
+			<date value="2022.0712328767124" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-04-24">
+			<date value="2022.309589041096" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-04-05">
+			<date value="2022.2575342465752" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-05-23">
+			<date value="2022.3890410958904" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2021-06-17">
+			<date value="2021.4575342465753" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-10-12">
+			<date value="2022.7780821917809" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2023-02-08">
+			<date value="2023.1041095890412" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2023-03-02">
+			<date value="2023.164383561644" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-09-30">
+			<date value="2022.7452054794521" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-09-11">
+			<date value="2022.6931506849314" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2023-01-01">
+			<date value="2023.0" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-12-13">
+			<date value="2022.9479452054795" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-11-08">
+			<date value="2022.8520547945207" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2023-01-12">
+			<date value="2023.0301369863014" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2023-02-22">
+			<date value="2023.1424657534246" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-12-14">
+			<date value="2022.9506849315069" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="2022-11-09">
+			<date value="2022.854794520548" direction="forwards" units="years"/>
+		</taxon>
 	</taxa>
 	
 
@@ -106,8 +218,8 @@
 		<taxon idref="2018-05-12"/>
 	</taxa>
 
-	<!-- gene name = pre-COVID, ntax= 13                                         -->
-	<taxa id="pre-COVID.taxa">
+	<!-- gene name = during-COVID, ntax= 13                                      -->
+	<taxa id="during-COVID.taxa">
 		<taxon idref="2022-01-01"/>
 		<taxon idref="2021-11-09"/>
 		<taxon idref="2022-02-13"/>
@@ -123,8 +235,8 @@
 		<taxon idref="2021-06-17"/>
 	</taxa>
 
-	<!-- gene name = pre-COVID, ntax= 13                                         -->
-	<taxa id="pre-COVID.taxa">
+	<!-- gene name = post-COVID, ntax= 13                                        -->
+	<taxa id="post-COVID.taxa">
 		<taxon idref="2022-10-12"/>
 		<taxon idref="2022-10-12"/>
 		<taxon idref="2023-02-08"/>
@@ -423,56 +535,137 @@
 	
 
 	<!-- Generate a random starting tree under the coalescent process            -->
-	<coalescentSimulator id="startingTree">
-		<taxa idref="taxa"/>
+	<coalescentSimulator id="pre-COVID.startingTree">
+		<taxa idref="pre-COVID.taxa"/>
+		<constantSize idref="constant"/>
+	</coalescentSimulator>
+	
+
+	<!-- Generate a random starting tree under the coalescent process            -->
+	<coalescentSimulator id="during-COVID.startingTree">
+		<taxa idref="during-COVID.taxa"/>
+		<constantSize idref="constant"/>
+	</coalescentSimulator>
+	
+
+	<!-- Generate a random starting tree under the coalescent process            -->
+	<coalescentSimulator id="post-COVID.startingTree">
+		<taxa idref="post-COVID.taxa"/>
 		<constantSize idref="constant"/>
 	</coalescentSimulator>
 	
 
 	<!-- Generate a tree model                                                   -->
-	<treeModel id="treeModel">
-		<coalescentTree idref="startingTree"/>
+	<treeModel id="pre-COVID.treeModel">
+		<coalescentTree idref="pre-COVID.startingTree"/>
 		<rootHeight>
-			<parameter id="treeModel.rootHeight"/>
+			<parameter id="pre-COVID.treeModel.rootHeight"/>
 		</rootHeight>
 		<nodeHeights internalNodes="true">
-			<parameter id="treeModel.internalNodeHeights"/>
+			<parameter id="pre-COVID.treeModel.internalNodeHeights"/>
 		</nodeHeights>
 		<nodeHeights internalNodes="true" rootNode="true">
-			<parameter id="treeModel.allInternalNodeHeights"/>
+			<parameter id="pre-COVID.treeModel.allInternalNodeHeights"/>
 		</nodeHeights>
-
-		<!-- START Tip date sampling                                                 -->
-
-		<!-- END Tip date sampling                                                   -->
-
 	</treeModel>
 
 	<!-- Statistic for sum of the branch lengths of the tree (tree length)       -->
-	<treeLengthStatistic id="treeLength">
-		<treeModel idref="treeModel"/>
+	<treeLengthStatistic id="pre-COVID.treeLength">
+		<treeModel idref="pre-COVID.treeModel"/>
 	</treeLengthStatistic>
 
 	<!-- Statistic for time of most recent common ancestor of tree               -->
-	<tmrcaStatistic id="age(root)" absolute="true">
-		<treeModel idref="treeModel"/>
+	<tmrcaStatistic id="pre-COVID.age(root)" absolute="true">
+		<treeModel idref="pre-COVID.treeModel"/>
+	</tmrcaStatistic>
+	
+
+	<!-- Generate a tree model                                                   -->
+	<treeModel id="during-COVID.treeModel">
+		<coalescentTree idref="during-COVID.startingTree"/>
+		<rootHeight>
+			<parameter id="during-COVID.treeModel.rootHeight"/>
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="during-COVID.treeModel.internalNodeHeights"/>
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="during-COVID.treeModel.allInternalNodeHeights"/>
+		</nodeHeights>
+	</treeModel>
+
+	<!-- Statistic for sum of the branch lengths of the tree (tree length)       -->
+	<treeLengthStatistic id="during-COVID.treeLength">
+		<treeModel idref="during-COVID.treeModel"/>
+	</treeLengthStatistic>
+
+	<!-- Statistic for time of most recent common ancestor of tree               -->
+	<tmrcaStatistic id="during-COVID.age(root)" absolute="true">
+		<treeModel idref="during-COVID.treeModel"/>
+	</tmrcaStatistic>
+	
+
+	<!-- Generate a tree model                                                   -->
+	<treeModel id="post-COVID.treeModel">
+		<coalescentTree idref="post-COVID.startingTree"/>
+		<rootHeight>
+			<parameter id="post-COVID.treeModel.rootHeight"/>
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="post-COVID.treeModel.internalNodeHeights"/>
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="post-COVID.treeModel.allInternalNodeHeights"/>
+		</nodeHeights>
+	</treeModel>
+
+	<!-- Statistic for sum of the branch lengths of the tree (tree length)       -->
+	<treeLengthStatistic id="post-COVID.treeLength">
+		<treeModel idref="post-COVID.treeModel"/>
+	</treeLengthStatistic>
+
+	<!-- Statistic for time of most recent common ancestor of tree               -->
+	<tmrcaStatistic id="post-COVID.age(root)" absolute="true">
+		<treeModel idref="post-COVID.treeModel"/>
 	</tmrcaStatistic>
 	
 
 	<!-- Generate a coalescent likelihood                                        -->
-	<coalescentLikelihood id="coalescent">
+	<coalescentLikelihood id="pre-COVID.coalescent">
 		<model>
 			<constantSize idref="constant"/>
 		</model>
 		<populationTree>
-			<treeModel idref="treeModel"/>
+			<treeModel idref="pre-COVID.treeModel"/>
+		</populationTree>
+	</coalescentLikelihood>
+	
+
+	<!-- Generate a coalescent likelihood                                        -->
+	<coalescentLikelihood id="during-COVID.coalescent">
+		<model>
+			<constantSize idref="constant"/>
+		</model>
+		<populationTree>
+			<treeModel idref="during-COVID.treeModel"/>
+		</populationTree>
+	</coalescentLikelihood>
+	
+
+	<!-- Generate a coalescent likelihood                                        -->
+	<coalescentLikelihood id="post-COVID.coalescent">
+		<model>
+			<constantSize idref="constant"/>
+		</model>
+		<populationTree>
+			<treeModel idref="post-COVID.treeModel"/>
 		</populationTree>
 	</coalescentLikelihood>
 	
 
 	<!-- The random local clock model (Drummond & Suchard, 2010)                 -->
 	<randomLocalClockModel id="pre-COVID.branchRates" ratesAreMultipliers="false">
-		<treeModel idref="treeModel"/>
+		<treeModel idref="pre-COVID.treeModel"/>
 		<rates>
 			<parameter id="pre-COVID.localClock.relativeRates"/>
 		</rates>
@@ -480,7 +673,7 @@
 			<parameter id="pre-COVID.localClock.changes"/>
 		</rateIndicator>
 		<clockRate>
-			<parameter id="pre-COVID.clock.rate" value="1.0"/>
+			<parameter id="pre-COVID.clock.rate" value="1.0" lower="0.0"/>
 		</clockRate>
 	</randomLocalClockModel>
 	
@@ -489,210 +682,237 @@
 	</sumStatistic>
 	
 	<rateStatistic id="pre-COVID.meanRate" name="pre-COVID.meanRate" mode="mean" internal="true" external="true">
-		<treeModel idref="treeModel"/>
+		<treeModel idref="pre-COVID.treeModel"/>
 		<randomLocalClockModel idref="pre-COVID.branchRates"/>
 	</rateStatistic>
 	
 	<rateStatistic id="pre-COVID.coefficientOfVariation" name="pre-COVID.coefficientOfVariation" mode="coefficientOfVariation" internal="true" external="true">
-		<treeModel idref="treeModel"/>
+		<treeModel idref="pre-COVID.treeModel"/>
 		<randomLocalClockModel idref="pre-COVID.branchRates"/>
 	</rateStatistic>
 	
 	<rateCovarianceStatistic id="pre-COVID.covariance" name="pre-COVID.covariance">
-		<treeModel idref="treeModel"/>
+		<treeModel idref="pre-COVID.treeModel"/>
 		<randomLocalClockModel idref="pre-COVID.branchRates"/>
 	</rateCovarianceStatistic>
 	
 
-	<!-- The strict clock (Uniform rates across branches)                        -->
-	<strictClockBranchRates id="during-COVID.branchRates">
-		<rate>
-			<parameter id="during-COVID.clock.rate" value="1.0"/>
-		</rate>
-	</strictClockBranchRates>
+	<!-- The random local clock model (Drummond & Suchard, 2010)                 -->
+	<randomLocalClockModel id="during-COVID.branchRates" ratesAreMultipliers="false">
+		<treeModel idref="during-COVID.treeModel"/>
+		<rates>
+			<parameter id="during-COVID.localClock.relativeRates"/>
+		</rates>
+		<rateIndicator>
+			<parameter id="during-COVID.localClock.changes"/>
+		</rateIndicator>
+		<clockRate>
+			<parameter id="during-COVID.clock.rate" value="1.0" lower="0.0"/>
+		</clockRate>
+	</randomLocalClockModel>
+	
+	<sumStatistic id="during-COVID.rateChanges" name="during-COVID.rateChangeCount" elementwise="true">
+		<parameter idref="during-COVID.localClock.changes"/>
+	</sumStatistic>
 	
 	<rateStatistic id="during-COVID.meanRate" name="during-COVID.meanRate" mode="mean" internal="true" external="true">
-		<treeModel idref="treeModel"/>
-		<strictClockBranchRates idref="during-COVID.branchRates"/>
+		<treeModel idref="during-COVID.treeModel"/>
+		<randomLocalClockModel idref="during-COVID.branchRates"/>
 	</rateStatistic>
 	
+	<rateStatistic id="during-COVID.coefficientOfVariation" name="during-COVID.coefficientOfVariation" mode="coefficientOfVariation" internal="true" external="true">
+		<treeModel idref="during-COVID.treeModel"/>
+		<randomLocalClockModel idref="during-COVID.branchRates"/>
+	</rateStatistic>
+	
+	<rateCovarianceStatistic id="during-COVID.covariance" name="during-COVID.covariance">
+		<treeModel idref="during-COVID.treeModel"/>
+		<randomLocalClockModel idref="during-COVID.branchRates"/>
+	</rateCovarianceStatistic>
+	
 
-	<!-- The strict clock (Uniform rates across branches)                        -->
-	<strictClockBranchRates id="post-COVID.branchRates">
-		<rate>
-			<parameter id="post-COVID.clock.rate" value="1.0"/>
-		</rate>
-	</strictClockBranchRates>
+	<!-- The random local clock model (Drummond & Suchard, 2010)                 -->
+	<randomLocalClockModel id="post-COVID.branchRates" ratesAreMultipliers="false">
+		<treeModel idref="post-COVID.treeModel"/>
+		<rates>
+			<parameter id="post-COVID.localClock.relativeRates"/>
+		</rates>
+		<rateIndicator>
+			<parameter id="post-COVID.localClock.changes"/>
+		</rateIndicator>
+		<clockRate>
+			<parameter id="post-COVID.clock.rate" value="1.0" lower="0.0"/>
+		</clockRate>
+	</randomLocalClockModel>
+	
+	<sumStatistic id="post-COVID.rateChanges" name="post-COVID.rateChangeCount" elementwise="true">
+		<parameter idref="post-COVID.localClock.changes"/>
+	</sumStatistic>
 	
 	<rateStatistic id="post-COVID.meanRate" name="post-COVID.meanRate" mode="mean" internal="true" external="true">
-		<treeModel idref="treeModel"/>
-		<strictClockBranchRates idref="post-COVID.branchRates"/>
+		<treeModel idref="post-COVID.treeModel"/>
+		<randomLocalClockModel idref="post-COVID.branchRates"/>
 	</rateStatistic>
 	
-
-	<!-- The HKY substitution model (Hasegawa, Kishino & Yano, 1985)             -->
-	<HKYModel id="pre-COVID.hky">
-		<frequencies>
-			<frequencyModel dataType="nucleotide">
-				<frequencies>
-					<parameter id="pre-COVID.frequencies" value="0.25 0.25 0.25 0.25"/>
-				</frequencies>
-			</frequencyModel>
-		</frequencies>
-		<kappa>
-			<parameter id="pre-COVID.kappa" value="2.0" lower="0.0"/>
-		</kappa>
-	</HKYModel>
-
-	<!-- site model                                                              -->
-	<siteModel id="pre-COVID.siteModel">
-		<substitutionModel>
-			<HKYModel idref="pre-COVID.hky"/>
-		</substitutionModel>
-	</siteModel>
-
-	<!--                                                                         -->
-	<statistic id="pre-COVID.mu" name="mu">
-		<siteModel idref="pre-COVID.siteModel"/>
-	</statistic>
+	<rateStatistic id="post-COVID.coefficientOfVariation" name="post-COVID.coefficientOfVariation" mode="coefficientOfVariation" internal="true" external="true">
+		<treeModel idref="post-COVID.treeModel"/>
+		<randomLocalClockModel idref="post-COVID.branchRates"/>
+	</rateStatistic>
+	
+	<rateCovarianceStatistic id="post-COVID.covariance" name="post-COVID.covariance">
+		<treeModel idref="post-COVID.treeModel"/>
+		<randomLocalClockModel idref="post-COVID.branchRates"/>
+	</rateCovarianceStatistic>
 	
 
 	<!-- The HKY substitution model (Hasegawa, Kishino & Yano, 1985)             -->
-	<HKYModel id="during-COVID.hky">
+	<HKYModel id="hky">
 		<frequencies>
 			<frequencyModel dataType="nucleotide">
 				<frequencies>
-					<parameter id="during-COVID.frequencies" value="0.25 0.25 0.25 0.25"/>
+					<parameter id="frequencies" value="0.25 0.25 0.25 0.25"/>
 				</frequencies>
 			</frequencyModel>
 		</frequencies>
 		<kappa>
-			<parameter id="during-COVID.kappa" value="2.0" lower="0.0"/>
+			<parameter id="kappa" value="2.0" lower="0.0"/>
 		</kappa>
 	</HKYModel>
 
 	<!-- site model                                                              -->
-	<siteModel id="during-COVID.siteModel">
+	<siteModel id="siteModel">
 		<substitutionModel>
-			<HKYModel idref="during-COVID.hky"/>
+			<HKYModel idref="hky"/>
 		</substitutionModel>
 	</siteModel>
 
 	<!--                                                                         -->
-	<statistic id="during-COVID.mu" name="mu">
-		<siteModel idref="during-COVID.siteModel"/>
-	</statistic>
-	
-
-	<!-- The HKY substitution model (Hasegawa, Kishino & Yano, 1985)             -->
-	<HKYModel id="post-COVID.hky">
-		<frequencies>
-			<frequencyModel dataType="nucleotide">
-				<frequencies>
-					<parameter id="post-COVID.frequencies" value="0.25 0.25 0.25 0.25"/>
-				</frequencies>
-			</frequencyModel>
-		</frequencies>
-		<kappa>
-			<parameter id="post-COVID.kappa" value="2.0" lower="0.0"/>
-		</kappa>
-	</HKYModel>
-
-	<!-- site model                                                              -->
-	<siteModel id="post-COVID.siteModel">
-		<substitutionModel>
-			<HKYModel idref="post-COVID.hky"/>
-		</substitutionModel>
-	</siteModel>
-
-	<!--                                                                         -->
-	<statistic id="post-COVID.mu" name="mu">
-		<siteModel idref="post-COVID.siteModel"/>
+	<statistic id="mu" name="mu">
+		<siteModel idref="siteModel"/>
 	</statistic>
 	
 
 	<!-- Likelihood for tree given sequence data                                 -->
-	<treeDataLikelihood id="pre-COVID.treeLikelihood" useAmbiguities="false">
+	<treeDataLikelihood id="pre-COVID.pre-COVID.treeLikelihood" useAmbiguities="false">
 		<partition>
 			<patterns idref="pre-COVID.patterns"/>
-			<siteModel idref="pre-COVID.siteModel"/>
+			<siteModel idref="siteModel"/>
 		</partition>
-		<treeModel idref="treeModel"/>
+		<treeModel idref="pre-COVID.treeModel"/>
 		<randomLocalClockModel idref="pre-COVID.branchRates"/>
 	</treeDataLikelihood>
 	
 
 	<!-- Likelihood for tree given sequence data                                 -->
-	<treeDataLikelihood id="during-COVID.treeLikelihood" useAmbiguities="false">
+	<treeDataLikelihood id="during-COVID.during-COVID.treeLikelihood" useAmbiguities="false">
 		<partition>
 			<patterns idref="during-COVID.patterns"/>
-			<siteModel idref="during-COVID.siteModel"/>
+			<siteModel idref="siteModel"/>
 		</partition>
-		<treeModel idref="treeModel"/>
-		<strictClockBranchRates idref="during-COVID.branchRates"/>
+		<treeModel idref="during-COVID.treeModel"/>
+		<randomLocalClockModel idref="during-COVID.branchRates"/>
 	</treeDataLikelihood>
 	
 
 	<!-- Likelihood for tree given sequence data                                 -->
-	<treeDataLikelihood id="post-COVID.treeLikelihood" useAmbiguities="false">
+	<treeDataLikelihood id="post-COVID.post-COVID.treeLikelihood" useAmbiguities="false">
 		<partition>
 			<patterns idref="post-COVID.patterns"/>
-			<siteModel idref="post-COVID.siteModel"/>
+			<siteModel idref="siteModel"/>
 		</partition>
-		<treeModel idref="treeModel"/>
-		<strictClockBranchRates idref="post-COVID.branchRates"/>
+		<treeModel idref="post-COVID.treeModel"/>
+		<randomLocalClockModel idref="post-COVID.branchRates"/>
 	</treeDataLikelihood>
 	
 
 	<!-- Define operators                                                        -->
 	<operators id="operators" optimizationSchedule="default">
 		<scaleOperator scaleFactor="0.75" weight="1">
-			<parameter idref="pre-COVID.kappa"/>
+			<parameter idref="kappa"/>
 		</scaleOperator>
 		<deltaExchange delta="0.01" weight="1">
-			<parameter idref="pre-COVID.frequencies"/>
+			<parameter idref="frequencies"/>
 		</deltaExchange>
-		<scaleOperator scaleFactor="0.75" weight="1">
-			<parameter idref="during-COVID.kappa"/>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="pre-COVID.clock.rate"/>
 		</scaleOperator>
-		<deltaExchange delta="0.01" weight="1">
-			<parameter idref="during-COVID.frequencies"/>
-		</deltaExchange>
-		<scaleOperator scaleFactor="0.75" weight="1">
-			<parameter idref="post-COVID.kappa"/>
-		</scaleOperator>
-		<deltaExchange delta="0.01" weight="1">
-			<parameter idref="post-COVID.frequencies"/>
-		</deltaExchange>
 		<randomWalkOperator windowSize="0.75" weight="30">
 			<parameter idref="pre-COVID.localClock.relativeRates"/>
 		</randomWalkOperator>
 		<bitFlipOperator weight="30">
 			<parameter idref="pre-COVID.localClock.changes"/>
 		</bitFlipOperator>
-		<scaleOperator scaleFactor="0.75" scaleAll="true" ignoreBounds="true" weight="3">
-			<parameter idref="during-COVID.treeModel.allInternalNodeHeights"/>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="during-COVID.clock.rate"/>
 		</scaleOperator>
-		<scaleOperator scaleFactor="0.75" scaleAll="true" ignoreBounds="true" weight="3">
-			<parameter idref="post-COVID.treeModel.allInternalNodeHeights"/>
+		<randomWalkOperator windowSize="0.75" weight="30">
+			<parameter idref="during-COVID.localClock.relativeRates"/>
+		</randomWalkOperator>
+		<bitFlipOperator weight="30">
+			<parameter idref="during-COVID.localClock.changes"/>
+		</bitFlipOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="post-COVID.clock.rate"/>
 		</scaleOperator>
+		<randomWalkOperator windowSize="0.75" weight="30">
+			<parameter idref="post-COVID.localClock.relativeRates"/>
+		</randomWalkOperator>
+		<bitFlipOperator weight="30">
+			<parameter idref="post-COVID.localClock.changes"/>
+		</bitFlipOperator>
 		<subtreeSlide size="1.0" gaussian="true" weight="30">
-			<treeModel idref="treeModel"/>
+			<treeModel idref="pre-COVID.treeModel"/>
 		</subtreeSlide>
 		<narrowExchange weight="30">
-			<treeModel idref="treeModel"/>
+			<treeModel idref="pre-COVID.treeModel"/>
 		</narrowExchange>
 		<wideExchange weight="3">
-			<treeModel idref="treeModel"/>
+			<treeModel idref="pre-COVID.treeModel"/>
 		</wideExchange>
 		<wilsonBalding weight="3">
-			<treeModel idref="treeModel"/>
+			<treeModel idref="pre-COVID.treeModel"/>
 		</wilsonBalding>
 		<scaleOperator scaleFactor="0.75" weight="3">
-			<parameter idref="treeModel.rootHeight"/>
+			<parameter idref="pre-COVID.treeModel.rootHeight"/>
 		</scaleOperator>
 		<uniformOperator weight="30">
-			<parameter idref="treeModel.internalNodeHeights"/>
+			<parameter idref="pre-COVID.treeModel.internalNodeHeights"/>
+		</uniformOperator>
+		<subtreeSlide size="1.0" gaussian="true" weight="30">
+			<treeModel idref="during-COVID.treeModel"/>
+		</subtreeSlide>
+		<narrowExchange weight="30">
+			<treeModel idref="during-COVID.treeModel"/>
+		</narrowExchange>
+		<wideExchange weight="3">
+			<treeModel idref="during-COVID.treeModel"/>
+		</wideExchange>
+		<wilsonBalding weight="3">
+			<treeModel idref="during-COVID.treeModel"/>
+		</wilsonBalding>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="during-COVID.treeModel.rootHeight"/>
+		</scaleOperator>
+		<uniformOperator weight="30">
+			<parameter idref="during-COVID.treeModel.internalNodeHeights"/>
+		</uniformOperator>
+		<subtreeSlide size="1.0" gaussian="true" weight="30">
+			<treeModel idref="post-COVID.treeModel"/>
+		</subtreeSlide>
+		<narrowExchange weight="30">
+			<treeModel idref="post-COVID.treeModel"/>
+		</narrowExchange>
+		<wideExchange weight="3">
+			<treeModel idref="post-COVID.treeModel"/>
+		</wideExchange>
+		<wilsonBalding weight="3">
+			<treeModel idref="post-COVID.treeModel"/>
+		</wilsonBalding>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="post-COVID.treeModel.rootHeight"/>
+		</scaleOperator>
+		<uniformOperator weight="30">
+			<parameter idref="post-COVID.treeModel.internalNodeHeights"/>
 		</uniformOperator>
 		<scaleOperator scaleFactor="0.75" weight="3">
 			<parameter idref="constant.popSize"/>
@@ -701,47 +921,69 @@
 	
 
 	<!-- Define MCMC                                                             -->
-	<mcmc id="mcmc" chainLength="30000000" autoOptimize="true">
+	<mcmc id="mcmc" chainLength="30000000" autoOptimize="true" operatorAnalysis="flu-mutations.ops">
 		<joint id="joint">
 			<prior id="prior">
 				<logNormalPrior mu="1.0" sigma="1.25" offset="0.0">
-					<parameter idref="pre-COVID.kappa"/>
+					<parameter idref="kappa"/>
 				</logNormalPrior>
 				<dirichletPrior alpha="1.0" sumsTo="1.0">
-					<parameter idref="pre-COVID.frequencies"/>
+					<parameter idref="frequencies"/>
 				</dirichletPrior>
-				<logNormalPrior mu="1.0" sigma="1.25" offset="0.0">
-					<parameter idref="during-COVID.kappa"/>
-				</logNormalPrior>
-				<dirichletPrior alpha="1.0" sumsTo="1.0">
-					<parameter idref="during-COVID.frequencies"/>
-				</dirichletPrior>
-				<logNormalPrior mu="1.0" sigma="1.25" offset="0.0">
-					<parameter idref="post-COVID.kappa"/>
-				</logNormalPrior>
-				<dirichletPrior alpha="1.0" sumsTo="1.0">
-					<parameter idref="post-COVID.frequencies"/>
-				</dirichletPrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="pre-COVID.clock.rate"/>
+					</ctmcScale>
+					<treeModel idref="pre-COVID.treeModel"/>
+				</ctmcScalePrior>
 				<poissonPrior mean="0.6931471805599453" offset="0.0">
 					<statistic idref="pre-COVID.rateChanges"/>
 				</poissonPrior>
 				<gammaPrior shape="0.5" scale="2.0" offset="0.0">
 					<parameter idref="pre-COVID.localClock.relativeRates"/>
 				</gammaPrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="during-COVID.clock.rate"/>
+					</ctmcScale>
+					<treeModel idref="during-COVID.treeModel"/>
+				</ctmcScalePrior>
+				<poissonPrior mean="0.6931471805599453" offset="0.0">
+					<statistic idref="during-COVID.rateChanges"/>
+				</poissonPrior>
+				<gammaPrior shape="0.5" scale="2.0" offset="0.0">
+					<parameter idref="during-COVID.localClock.relativeRates"/>
+				</gammaPrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="post-COVID.clock.rate"/>
+					</ctmcScale>
+					<treeModel idref="post-COVID.treeModel"/>
+				</ctmcScalePrior>
+				<poissonPrior mean="0.6931471805599453" offset="0.0">
+					<statistic idref="post-COVID.rateChanges"/>
+				</poissonPrior>
+				<gammaPrior shape="0.5" scale="2.0" offset="0.0">
+					<parameter idref="post-COVID.localClock.relativeRates"/>
+				</gammaPrior>
 				<oneOnXPrior>
 					<parameter idref="constant.popSize"/>
 				</oneOnXPrior>
-				<coalescentLikelihood idref="coalescent"/>
+				<coalescentLikelihood idref="pre-COVID.coalescent"/>
+				
+				<coalescentLikelihood idref="during-COVID.coalescent"/>
+				
+				<coalescentLikelihood idref="post-COVID.coalescent"/>
 				
 				
 				<randomLocalClockModel idref="pre-COVID.branchRates"/>
-				<strictClockBranchRates idref="during-COVID.branchRates"/>
-				<strictClockBranchRates idref="post-COVID.branchRates"/>
+				<randomLocalClockModel idref="during-COVID.branchRates"/>
+				<randomLocalClockModel idref="post-COVID.branchRates"/>
 			</prior>
 			<likelihood id="likelihood">
-				<treeDataLikelihood idref="pre-COVID.treeLikelihood"/>
-				<treeDataLikelihood idref="during-COVID.treeLikelihood"/>
-				<treeDataLikelihood idref="post-COVID.treeLikelihood"/>
+				<treeDataLikelihood idref="pre-COVID.pre-COVID.treeLikelihood"/>
+				<treeDataLikelihood idref="during-COVID.during-COVID.treeLikelihood"/>
+				<treeDataLikelihood idref="post-COVID.post-COVID.treeLikelihood"/>
 			</likelihood>
 		</joint>
 		<operators idref="operators"/>
@@ -757,8 +999,23 @@
 			<column label="Likelihood" dp="4" width="12">
 				<likelihood idref="likelihood"/>
 			</column>
-			<column label="age(root)" sf="6" width="12">
-				<tmrcaStatistic idref="age(root)"/>
+			<column label="pre-COVID.age(root)" sf="6" width="12">
+				<tmrcaStatistic idref="pre-COVID.age(root)"/>
+			</column>
+			<column label="during-COVID.age(root)" sf="6" width="12">
+				<tmrcaStatistic idref="during-COVID.age(root)"/>
+			</column>
+			<column label="post-COVID.age(root)" sf="6" width="12">
+				<tmrcaStatistic idref="post-COVID.age(root)"/>
+			</column>
+			<column label="pre-COVID.clock.rate" sf="6" width="12">
+				<parameter idref="pre-COVID.clock.rate"/>
+			</column>
+			<column label="during-COVID.clock.rate" sf="6" width="12">
+				<parameter idref="during-COVID.clock.rate"/>
+			</column>
+			<column label="post-COVID.clock.rate" sf="6" width="12">
+				<parameter idref="post-COVID.clock.rate"/>
 			</column>
 		</log>
 
@@ -767,16 +1024,18 @@
 			<joint idref="joint"/>
 			<prior idref="prior"/>
 			<likelihood idref="likelihood"/>
-			<parameter idref="treeModel.rootHeight"/>
-			<tmrcaStatistic idref="age(root)"/>
-			<treeLengthStatistic idref="treeLength"/>
+			<parameter idref="pre-COVID.treeModel.rootHeight"/>
+			<parameter idref="during-COVID.treeModel.rootHeight"/>
+			<parameter idref="post-COVID.treeModel.rootHeight"/>
+			<tmrcaStatistic idref="pre-COVID.age(root)"/>
+			<tmrcaStatistic idref="during-COVID.age(root)"/>
+			<tmrcaStatistic idref="post-COVID.age(root)"/>
+			<treeLengthStatistic idref="pre-COVID.treeLength"/>
+			<treeLengthStatistic idref="during-COVID.treeLength"/>
+			<treeLengthStatistic idref="post-COVID.treeLength"/>
 			<parameter idref="constant.popSize"/>
-			<parameter idref="pre-COVID.kappa"/>
-			<parameter idref="pre-COVID.frequencies"/>
-			<parameter idref="during-COVID.kappa"/>
-			<parameter idref="during-COVID.frequencies"/>
-			<parameter idref="post-COVID.kappa"/>
-			<parameter idref="post-COVID.frequencies"/>
+			<parameter idref="kappa"/>
+			<parameter idref="frequencies"/>
 			<parameter idref="pre-COVID.clock.rate"/>
 			<parameter idref="during-COVID.clock.rate"/>
 			<parameter idref="post-COVID.clock.rate"/>
@@ -784,42 +1043,69 @@
 			<rateStatistic idref="pre-COVID.meanRate"/>
 			<rateStatistic idref="pre-COVID.coefficientOfVariation"/>
 			<rateCovarianceStatistic idref="pre-COVID.covariance"/>
+			<sumStatistic idref="during-COVID.rateChanges"/>
 			<rateStatistic idref="during-COVID.meanRate"/>
+			<rateStatistic idref="during-COVID.coefficientOfVariation"/>
+			<rateCovarianceStatistic idref="during-COVID.covariance"/>
+			<sumStatistic idref="post-COVID.rateChanges"/>
 			<rateStatistic idref="post-COVID.meanRate"/>
-
-			<!-- START Tip date sampling                                                 -->
-
-			<!-- END Tip date sampling                                                   -->
-
-			<treeDataLikelihood idref="pre-COVID.treeLikelihood"/>
-			<treeDataLikelihood idref="during-COVID.treeLikelihood"/>
-			<treeDataLikelihood idref="post-COVID.treeLikelihood"/>
+			<rateStatistic idref="post-COVID.coefficientOfVariation"/>
+			<rateCovarianceStatistic idref="post-COVID.covariance"/>
+			<treeDataLikelihood idref="pre-COVID.pre-COVID.treeLikelihood"/>
+			<treeDataLikelihood idref="during-COVID.during-COVID.treeLikelihood"/>
+			<treeDataLikelihood idref="post-COVID.post-COVID.treeLikelihood"/>
 			<randomLocalClockModel idref="pre-COVID.branchRates"/>
-			<strictClockBranchRates idref="during-COVID.branchRates"/>
-			<strictClockBranchRates idref="post-COVID.branchRates"/>
-			<coalescentLikelihood idref="coalescent"/>
+			<randomLocalClockModel idref="during-COVID.branchRates"/>
+			<randomLocalClockModel idref="post-COVID.branchRates"/>
+			<coalescentLikelihood idref="pre-COVID.coalescent"/>
+			
+			<coalescentLikelihood idref="during-COVID.coalescent"/>
+			
+			<coalescentLikelihood idref="post-COVID.coalescent"/>
 			
 		</log>
 
 		<!-- write tree log to file                                                  -->
-		<logTree id="treeFileLog" logEvery="1000" nexusFormat="true" fileName="flu-mutations.(time).trees" sortTranslationTable="true">
-			<treeModel idref="treeModel"/>
+		<logTree id="pre-COVID.treeFileLog" logEvery="1000" nexusFormat="true" fileName="flu-mutations.pre-COVID.(time).trees" sortTranslationTable="true">
+			<treeModel idref="pre-COVID.treeModel"/>
 			<trait name="rate" tag="pre-COVID.rate">
 				<randomLocalClockModel idref="pre-COVID.branchRates"/>
-			</trait>
-			<trait name="rate" tag="during-COVID.rate">
-				<strictClockBranchRates idref="during-COVID.branchRates"/>
-			</trait>
-			<trait name="rate" tag="post-COVID.rate">
-				<strictClockBranchRates idref="post-COVID.branchRates"/>
 			</trait>
 			<joint idref="joint"/>
 		</logTree>
-		<logTree id="substTreeFileLog" logEvery="1000" nexusFormat="true" fileName="flu-mutations.(subst).trees" branchLengths="substitutions">
-			<treeModel idref="treeModel"/>
+		<logTree id="during-COVID.treeFileLog" logEvery="1000" nexusFormat="true" fileName="flu-mutations.during-COVID.(time).trees" sortTranslationTable="true">
+			<treeModel idref="during-COVID.treeModel"/>
+			<trait name="rate" tag="during-COVID.rate">
+				<randomLocalClockModel idref="during-COVID.branchRates"/>
+			</trait>
+			<joint idref="joint"/>
+		</logTree>
+		<logTree id="post-COVID.treeFileLog" logEvery="1000" nexusFormat="true" fileName="flu-mutations.post-COVID.(time).trees" sortTranslationTable="true">
+			<treeModel idref="post-COVID.treeModel"/>
+			<trait name="rate" tag="post-COVID.rate">
+				<randomLocalClockModel idref="post-COVID.branchRates"/>
+			</trait>
+			<joint idref="joint"/>
+		</logTree>
+		<logTree id="pre-COVID.substTreeFileLog" logEvery="1000" nexusFormat="true" fileName="flu-mutations.pre-COVID.(subst).trees" branchLengths="substitutions">
+			<treeModel idref="pre-COVID.treeModel"/>
 			<randomLocalClockModel idref="pre-COVID.branchRates"/>
 			<trait name="rate" tag="pre-COVID.rate">
 				<randomLocalClockModel idref="pre-COVID.branchRates"/>
+			</trait>
+		</logTree>
+		<logTree id="during-COVID.substTreeFileLog" logEvery="1000" nexusFormat="true" fileName="flu-mutations.during-COVID.(subst).trees" branchLengths="substitutions">
+			<treeModel idref="during-COVID.treeModel"/>
+			<randomLocalClockModel idref="during-COVID.branchRates"/>
+			<trait name="rate" tag="during-COVID.rate">
+				<randomLocalClockModel idref="during-COVID.branchRates"/>
+			</trait>
+		</logTree>
+		<logTree id="post-COVID.substTreeFileLog" logEvery="1000" nexusFormat="true" fileName="flu-mutations.post-COVID.(subst).trees" branchLengths="substitutions">
+			<treeModel idref="post-COVID.treeModel"/>
+			<randomLocalClockModel idref="post-COVID.branchRates"/>
+			<trait name="rate" tag="post-COVID.rate">
+				<randomLocalClockModel idref="post-COVID.branchRates"/>
 			</trait>
 		</logTree>
 	</mcmc>
