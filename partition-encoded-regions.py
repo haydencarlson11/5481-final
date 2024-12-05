@@ -25,7 +25,9 @@ def partition_fasta(input_file):
                     fout = postCOVID
                 else:
                     fout = duringCOVID
-            fout.write(line + "\n")
+                fout.write(">"+dateStr+"\n") #we only care about date
+            else:
+                fout.write(line + "\n")
 
     preCOVID.close()
     duringCOVID.close()

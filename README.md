@@ -1,7 +1,7 @@
 1. Get relevant coding regions.
     a. We have 31 pre covid samples, 3 per year from 2010-2019, plus 1 from 2021.
     b. We have 13 during covid samples, 3 from 2021, and 2 per month from January-May of 2022
-    c. We have 15 post covid samples, 5 from 2023 and 8 from 2022
+    c. We have 13 post covid samples, 5 from 2023 and 8 from 2022
 
 2. Align them with MAFFT at the codon level. This didn't change the structure, which makes
 sense because we only got the full protein-encoding regions. Better safe than sorry.
