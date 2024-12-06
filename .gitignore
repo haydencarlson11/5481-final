@@ -1,0 +1,9 @@
+#ignore tracer tool
+bin/
+lib/
+README.txt
+images/
+# #ignore flu mutation time tree and substitution tree (too big)
+flu-mutations*
+!flu-mutations.log
+!flu-mutations.xml
